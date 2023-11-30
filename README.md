@@ -8,5 +8,5 @@ O aplicativo possui um estilo visual coerente, com esquema de cores predominante
 
 Em resumo, o aplicativo "CompApp" oferece uma experiência de usuário básica, permitindo o login e a navegação entre telas de maneira simples e eficaz, representando uma estrutura inicial para o desenvolvimento de funcionalidades mais avançadas em projetos React Native.
 
-![Texto Alternativo](https://github.com/depaulatiago/CompApp/blob/main/mobile1.jpeg?raw=true)
+![Texto Alternativo](https://github.com/depaulatiago/CompApp/blob/main/mobile1.jpg?raw=true)
 ![Texto Alternativo](https://github.com/depaulatiago/CompApp/blob/main/mobile2.jpeg?raw=true)
